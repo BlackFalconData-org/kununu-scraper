@@ -9,6 +9,7 @@ Extract structured data from [kununu.com](https://kununu.com) — kununu.com acr
 ## Key features
 
 
+
 **Search with filters** — Search by keyword and location. Filter by country code, review sort order, and more.
 
 **Multiple input modes** — keyword search or company names list or company urls list or from apify dataset. Switch modes without re-scraping.
@@ -28,6 +29,7 @@ Extract structured data from [kununu.com](https://kununu.com) — kununu.com acr
 ---
 
 ## Use cases
+
 
 
 **Data pipeline automation**
@@ -189,6 +191,7 @@ No. Just sign up for Apify, paste your input, and click Start. No credit card re
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 - [StepStone Scraper](https://apify.com/blackfalcondata/stepstone-scraper?fpr=1h3gvi) — Job listings from 18 European portals
